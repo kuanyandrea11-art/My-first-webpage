@@ -1,8 +1,8 @@
   h1, h2,h3,h4, h5, h6 {
                     font-size: medium;
                     font-weight: bold;
-                    color:purple;
-                    border-bottom: solid black;
+                    color:navy;
+                    
                     
                 }
                  p1, p2, p3, p4, p5,p6 {
@@ -17,8 +17,8 @@
                 
 
                 li {
-                  color: purple;
-                  border-bottom: solid black;
+                  color: black;
+                  
                 }
                 
               
